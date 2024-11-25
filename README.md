@@ -2,6 +2,8 @@
 Media Rush chrome extensions for screen sharing, screen recording, file sharing, youtube+audio sharing
  I'll explain how to load and test a Chrome extension in developer mode:
 
+right after downloading the Chrome extension code zip file
+
 1. Open Chrome and go to Extensions:
    - Type `chrome://extensions` in the address bar
    OR
